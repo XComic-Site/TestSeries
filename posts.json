@@ -1,0 +1,50 @@
+{
+  "allseries" : [
+  {
+    "count" : "ျပသ\nဆဲ",
+    "cover" : "https://1.bp.blogspot.com/-OpN4M3O8P88/XVWjG6jxpvI/AAAAAAAABCE/AL0sH8wk50s0o4-ou2vKlrJXa7DE3jy4QCLcBGAs/s1600/68751327_668329486968542_397403372459655168_n.jpg",
+    "dlink" : "https://raw.githubusercontent.com/BittchPlease/Mahar/master/",
+    "link" : "https://msubhindi-1233am.firebaseio.com/hinditv/series/episodelist/MAHABHARAT/",
+    "path" : "MAHABHARAT",
+    "image" : "https://1.bp.blogspot.com/-E2VNn0eVb5E/XdgtYPJyCvI/AAAAAAAADPQ/KBscMAMUS-w8cSXrZ9eEacgKHX-9P0_-QCLcBGAsYHQ/s600/mahabharat.jpg",
+    "title" : "မဟာ ဘာရတ",
+    "vol" : "မဟာဘာရတ အိႏၵိယ ရုပ္သံဇာတ္လမ္းတြဲ"
+    "episode" : [
+                 {
+                  "title" : "episode 1",
+                  "link" : "Link 1"
+                },
+                {
+                  "title" : "episode 2",
+                  "link" : "Link 2"
+                },{
+                  "title" : "episode 3",
+                  "link" : "Link 3"
+                }
+                ]
+  },
+  {
+    "count" : "ျပသ\nဆဲ",
+    "cover" : "https://1.bp.blogspot.com/-OpN4M3O8P88/XVWjG6jxpvI/AAAAAAAABCE/AL0sH8wk50s0o4-ou2vKlrJXa7DE3jy4QCLcBGAs/s1600/68751327_668329486968542_397403372459655168_n.jpg",
+    "dlink" : "https://raw.githubusercontent.com/BittchPlease/Mahar/master/",
+    "link" : "https://msubhindi-1233am.firebaseio.com/hinditv/series/episodelist/MAHABHARAT/",
+    "path" : "MAHABHARAT",
+    "image" : "https://1.bp.blogspot.com/-E2VNn0eVb5E/XdgtYPJyCvI/AAAAAAAADPQ/KBscMAMUS-w8cSXrZ9eEacgKHX-9P0_-QCLcBGAsYHQ/s600/mahabharat.jpg",
+    "title" : "မဟာ ဘာရတ",
+    "vol" : "မဟာဘာရတ အိႏၵိယ ရုပ္သံဇာတ္လမ္းတြဲ"
+    "episode" : [
+                 {
+                  "title" : "episode 1",
+                  "link" : "Link 1"
+                },
+                {
+                  "title" : "episode 2",
+                  "link" : "Link 2"
+                },{
+                  "title" : "episode 3",
+                  "link" : "Link 3"
+                }
+                ]
+  }
+  ]
+  }
